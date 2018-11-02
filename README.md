@@ -23,6 +23,12 @@ O desafio é realizar o desenvolvimento front-end da homepage de um jornal fict�
 * O mapa deve ser gerado usando a API do Google Maps
 * O pin/mark do mapa deve ser inserido via API do Google Maps
 
+## Seria muito legal se:
+* Você usasse seu pré-processador CSS favorito.
+* Você usasse seu task-runner favorito (Grunt, Gulp, Broccoli, webpack ...).
+* Você usasse ES6.
+* Você fizesse o layout responsivo.
+
 ## Observações
 * Você está livre para escolher a estrutura de diretórios da aplicação 
 * Você não deve utilizar nenhum framework CSS (Bootstrap, Foundation e etc) neste desafio.
